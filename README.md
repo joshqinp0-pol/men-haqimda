@@ -11,3 +11,4 @@ Men dasturlashga qiziqaman. Hozirda IT yo‘nalishida bilim olyapman. Kelajakda 
 **Mening maqsadim — yaxshi dasturchi bo‘lish!**
 
 [Google](https://www.google.com)
+## Mening qiziqishlarim
